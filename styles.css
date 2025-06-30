@@ -16,6 +16,28 @@ body {
       flex: 1;
       position: relative;
     }
+#grass-bg {
+    width: 70vh;
+    height: 100%;
+}
+
+#transparent-bg {
+  position: absolute;
+  top: 30%;         
+  left: 0;
+  width: 100%;       
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 20px 30px;
+  color: #fff;
+  text-align: center;
+}
+
+#main-title {
+    font-size: 55px;
+    color:#f8fafa;
+    font-family: "Caesar Dressing", system-ui;
+    font-style: normal;
+}
 
 #right-side-panel {
       flex: 1;

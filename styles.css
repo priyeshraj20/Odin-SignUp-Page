@@ -48,7 +48,7 @@ body {
 
 #top-right{
     background-color:  #f8fbfb;
-    font-size: 1.5rem;
+    font-size: 1.35rem;
     width: 65vw;
     padding: 35px 25px 30px 30px;
     height: 100%;
@@ -59,7 +59,7 @@ body {
 }
 
 .right-bottom-text {
-  font-size: 1.5rem;
+  font-size: 1.35rem;
   padding: 15px 25px 30px 30px;
 }
 
@@ -107,4 +107,13 @@ input[type="submit"] {
 
 input[type="submit"]:hover {
   background-color: #0056b3;
+}
+
+.bottom-text{
+  padding: 35px 25px 30px 30px;
+}
+
+.login-link {
+  color: #596c49;
+  text-decoration: none;
 }
